@@ -1,4 +1,4 @@
-# remark-spoiler
+# remark-spoiler [![npm version](https://badge.fury.io/js/remark-spoiler.svg)](https://badge.fury.io/js/remark-spoiler)
 A [remark](https://github.com/remarkjs/remark) plugin that adds support for spoiler text. By default spoiler text is defined by wrapping text with `||`.
 
 ![A video showing spoiler text. The text is obscured until the cursor of the user is above the text.](https://i.imgur.com/ByJYfFu.gif "Spoiler Text Demo")
