@@ -8,7 +8,7 @@
   },
   "umd:main": "dist/remark-spoiler.umd.js",
   "module": "dist/remark-spoiler.mjs",
-  "source": "index.js",
+  "source": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Darkhax/remark-spoiler.git"
