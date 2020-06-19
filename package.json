@@ -1,0 +1,35 @@
+{
+  "name": "remark-spoiler",
+  "version": "1.0.0",
+  "description": "A remark plugin which adds spoiler support.",
+  "main": "dist/remark-spoiler.js",
+  "scripts": {
+    "build": "microbundle build --no-compress"
+  },
+  "umd:main": "dist/remark-spoiler.umd.js",
+  "module": "dist/remark-spoiler.mjs",
+  "source": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkhax/remark-spoiler.git"
+  },
+  "keywords": [
+    "remark",
+    "markdown",
+    "spoiler",
+    "spoilers",
+    "plugin"
+  ],
+  "author": "Tyler Hancock (Darkhax)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darkhax/remark-spoiler/issues"
+  },
+  "homepage": "https://github.com/Darkhax/remark-spoiler#readme",
+  "peerDependencies": {
+    "remark": "12.x"
+  },
+  "devDependencies": {
+    "microbundle": "^0.12.1"
+  }
+}
