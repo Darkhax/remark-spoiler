@@ -1,6 +1,6 @@
 {
   "name": "remark-spoiler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A remark plugin which adds spoiler support.",
   "main": "dist/remark-spoiler.js",
   "scripts": {
