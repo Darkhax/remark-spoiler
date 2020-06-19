@@ -58,3 +58,7 @@ const spoilerOptions = {
 
 remark().use(html).use(spoiler, spoilerOptions).process("!!I Am Secret!!");
 ```
+
+## License
+
+[MIT](https://github.com/Darkhax/remark-spoiler/blob/master/LICENSE) © [Darkhax](https://github.com/Darkhax)
