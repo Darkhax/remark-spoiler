@@ -30,7 +30,7 @@
     "remark": "12.x"
   },
   "devDependencies": {
-    "microbundle": "^0.12.1"
+    "microbundle": "^0.12.3"
   },
   "funding": "https://www.patreon.com/Darkhax"
 }
